@@ -1,3 +1,5 @@
 */.idea
+*.class
+*.wav
 */out
 *.iml
